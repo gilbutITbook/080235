@@ -1,0 +1,32 @@
+#
+# 아이템 76
+#
+
+1. 첫번째 예제는 utils.py, utils_test.py 다음 두 파일로 구성됨. 실행하려면
+
+python3 utils_test.py
+
+를 해야 함. 테스트 결과는 실패로 끝나는게 정상.
+
+2. 두번째 예제는 위와 같이 utils.py와 utils_test.py로 구성되며, 원하는 테스트 메서드만 실행하는 경우임.
+원하는 테스트 메서드(예: UtilsTestcase의 test_to_str_bytes)를 실행하려면 다음과 같이 함.
+
+python3 utils_test.py UtilsTestcase.test_to_str_bytes
+
+3. 세번째 예제는 assert_test.py와 utils.py로 구성됨 테스트 실행은
+
+python3 assert_test.py
+
+4. 네번째 예제는 utils_error_test.py와 utils.py로 구성됨. 테스트 실행은
+
+python3 utils_error_test.py
+
+이 테스트 실행 결과는 책에 없음
+
+5. 다섯번째 예제는 helper_test.py로 구성됨. 테스트 실행은
+
+python3 helper_test.py
+
+6. 여섯번째 예제는 utils.py와 data_driven_test.py로 구성됨. 테스트 실행은
+
+python3 data_driven_test.py

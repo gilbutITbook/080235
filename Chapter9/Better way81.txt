@@ -1,0 +1,15 @@
+#
+# 아이템 81
+#
+1. 첫번째 예제는 using_gc.py를 통해 waste_memory.py의 메모리 사용을 검사한다. 다음과 같이 실행한다.
+
+python3 using_gc.py
+
+2. 두번째 예제는 top_n.py를 통해 waste_memory.py의 메모리 사용을 검사한다. 다음과 같이 실행한다.
+
+python3 top_n.py
+
+3. 세번째 예제는 with_trace.py를 통해 waste_memory.py의 메모리 사용을 검사한다. 다음과 같이 실행한다.
+
+python3 with_trace.py
+

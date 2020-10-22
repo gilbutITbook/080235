@@ -1,0 +1,9 @@
+#
+# 아이템 80
+#
+예제는 2가지이다.
+
+1. python3 always_breakpoint.py 를 실행하면 브레이크포인트가 걸리면서 디버거 프럼프트가 나온다.
+
+2. python3 conditional_breakpoint.py 를 실행하면 조건이 만족하는 시점에 브레이크포인트가 걸리면서 디버거 프럼프트가 나온다.
+

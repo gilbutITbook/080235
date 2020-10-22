@@ -1,0 +1,12 @@
+#
+# 아이템 77
+#
+
+1. 첫번째 예제는 environment_test.py
+
+python3 environment_test.py
+
+2. 두번째 에제는 integration_test.py
+
+python3 integration_test.py
+
